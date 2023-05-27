@@ -1,2 +1,3 @@
-Software engineering takes grit and growth mindset
-We will triumph
+#Software engineering  
+- Takes grit and growth mindset    
+- We will triumph  
